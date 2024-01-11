@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "latitude": 21.028511,
+    "longitude": 105.854444,
+    "name": "Hồ Hoàn Kiếm, Hà Nội",
+    "price": "250000 VND",
+    "title": "Hồ Hoàn Kiếm",
+    "numberOfStars": 4,
+    "rating": 8.9,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 2,
+    "latitude": 16.047079,
+    "longitude": 108.20623,
+    "name": "Cầu Rồng, Đà Nẵng",
+    "price": "350000 VND",
+    "title": "Cầu Rồng",
+    "numberOfStars": 5,
+    "rating": 9.5,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 3,
+    "latitude": 12.238791,
+    "longitude": 109.196748,
+    "name": "Núi Cô Tiên, Nha Trang",
+    "price": "45000 VND",
+    "title": "Núi Cô Tiên",
+    "numberOfStars": 4,
+    "rating": 8.3,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 4,
+    "latitude": 10.772217,
+    "longitude": 106.696794,
+    "name": "Chợ Bến Thành, TP.Hồ Chí Minh",
+    "price": "200000 VND",
+    "title": "Chợ Bến Thành",
+    "numberOfStars": 3,
+    "rating": 7.8,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 5,
+    "latitude": 14.058324,
+    "longitude": 108.277199,
+    "name": "Lăng Chủ tịch Hồ Chí Minh, Hà Nội",
+    "price": "300000 VND",
+    "title": "Lăng Chủ tịch Hồ Chí Minh",
+    "numberOfStars": 5,
+    "rating": 9.2,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 6,
+    "latitude": 13.766083,
+    "longitude": 109.219663,
+    "name": "Vịnh Hạ Long, Quảng Ninh",
+    "price": "400000 VND",
+    "title": "Vịnh Hạ Long",
+    "numberOfStars": 4,
+    "rating": 8.7,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 7,
+    "latitude": 10.784553,
+    "longitude": 106.700981,
+    "name": "Dinh Thống Nhất, TP.Hồ Chí Minh",
+    "price": "150000 VND",
+    "title": "Dinh Thống Nhất",
+    "numberOfStars": 4,
+    "rating": 8.5,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 8,
+    "latitude": 16.070076,
+    "longitude": 108.226302,
+    "name": "Bà Nà Hills, Đà Nẵng",
+    "price": "320000 VND",
+    "title": "Bà Nà Hills",
+    "numberOfStars": 5,
+    "rating": 9.3,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 9,
+    "latitude": 21.853186,
+    "longitude": 106.762634,
+    "name": "Thác Bản Giốc, Cao Bằng",
+    "price": "180000 VND",
+    "title": "Thác Bản Giốc",
+    "numberOfStars": 4,
+    "rating": 8.5,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 10,
+    "latitude": 14.497419,
+    "longitude": 108.32611,
+    "name": "Đèo Hải Vân, Thừa Thiên-Huế",
+    "price": "120000 VND",
+    "title": "Đèo Hải Vân",
+    "numberOfStars": 3,
+    "rating": 7.7,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 11,
+    "latitude": 11.945599,
+    "longitude": 108.440801,
+    "name": "Thác Datanla, Đà Lạt",
+    "price": "100000 VND",
+    "title": "Thác Datanla",
+    "numberOfStars": 4,
+    "rating": 8.2,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 12,
+    "latitude": 21.594692,
+    "longitude": 105.354484,
+    "name": "Vịnh Lan Hạ, Quảng Ninh",
+    "price": "380000 VND",
+    "title": "Vịnh Lan Hạ",
+    "numberOfStars": 5,
+    "rating": 9.4,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 13,
+    "latitude": 20.762623,
+    "longitude": 107.052596,
+    "name": "Khu di tích Hòa Lạc, Hòa Bình",
+    "price": "80000 VND",
+    "title": "Khu di tích Hòa Lạc",
+    "numberOfStars": 3,
+    "rating": 7.9,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 14,
+    "latitude": 21.150143,
+    "longitude": 105.582527,
+    "name": "Văn Miếu - Quốc Tử Giám, Hà Nội",
+    "price": "180000 VND",
+    "title": "Văn Miếu - Quốc Tử Giám",
+    "numberOfStars": 4,
+    "rating": 8.6,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 15,
+    "latitude": 10.241605,
+    "longitude": 103.963239,
+    "name": "Phú Quốc, Kiên Giang",
+    "price": "280000 VND",
+    "title": "Phú Quốc",
+    "numberOfStars": 5,
+    "rating": 9.0,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 16,
+    "latitude": 11.493797,
+    "longitude": 107.16811,
+    "name": "Thác Dray Nur, Đắk Nông",
+    "price": "120000 VND",
+    "title": "Thác Dray Nur",
+    "numberOfStars": 4,
+    "rating": 8.3,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 17,
+    "latitude": 13.295707,
+    "longitude": 108.429655,
+    "name": "Bà Đen Mountain, Tây Ninh",
+    "price": "150000 VND",
+    "title": "Bà Đen Mountain",
+    "numberOfStars": 4,
+    "rating": 8.5,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 18,
+    "latitude": 15.692514,
+    "longitude": 108.33412,
+    "name": "Biển An Bàng, Hội An",
+    "price": "200000 VND",
+    "title": "Biển An Bàng",
+    "numberOfStars": 3,
+    "rating": 7.7,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 19,
+    "latitude": 10.946598,
+    "longitude": 108.29583,
+    "name": "Khu du lịch Suối Tiên, Bà Rịa-Vũng Tàu",
+    "price": "30000 VND",
+    "title": "Khu du lịch Suối Tiên",
+    "numberOfStars": 3,
+    "rating": 7.9,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  },
+  {
+    "id": 20,
+    "latitude": 21.071825,
+    "longitude": 105.885812,
+    "name": "Cổng trời Fansipan, Lào Cai",
+    "price": "150000 VND",
+    "title": "Cổng trời Fansipan",
+    "numberOfStars": 4,
+    "rating": 8.4,
+    "image": "https://baohoabinh.com.vn/Includes/NewsImg/8_2023/181199_1-z4613978143121_78e1522fdf.jpg"
+  }
+]
